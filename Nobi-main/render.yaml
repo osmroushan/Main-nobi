@@ -1,9 +1,10 @@
 services:
   - type: web
-    name: nobi-backend
+    name: nobi-main
     env: python
     region: singapore
     plan: free
     buildCommand: "pip install -r requirements.txt"
     startCommand: "python agent.py"
     autoDeploy: true
+
