@@ -1,0 +1,34 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+mem0ai
+langchain_community
+requests
+python-dotenv
+duckduckgo-search
+# Core
+setuptools>=70.0.0
+python-dotenv
+livekit-agents
+livekit-plugins-google
+
+# Semantic memory
+faiss-cpu
+sentence-transformers
+scikit-learn
+numpy
+
+# Optional (GUI future use)
+streamlit
+pyqt5
+
+flask
+dotenv
+openai
+livekit
+python-dotenv
+python-Levenshtein
+fuzzywuzzy
+pygetwindow
